@@ -2,7 +2,7 @@
 
 **`Full Stack Software Engineer`**
 
-I'm a full-stack software engineer with a bias towards front-end and mobile development. Learning new technologies and languages gets me excited when everything starts to click. I enjoy supporting others which is something I learned about myself through gaming (I tend to main tank/healer/support characters).
+I'm a full-stack software engineer with a bias towards front-end and mobile development. Learning new technologies and languages excites me when everything starts to click. I enjoy supporting others which is something I learned about myself through gaming (I tend to main tank/healer/support characters).
 
 <br />
 <details>
