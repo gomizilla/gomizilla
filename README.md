@@ -43,4 +43,4 @@ I'm a full-stack software engineer with a bias towards front-end and mobile deve
 
 ![Dean's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomizilla&layout=compact&theme=nord&hide_border=true)
 
-![Dean's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomizilla&show_icons=true&theme=nord&hide_border=true)
+![Dean's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomizilla&count_private=true&show_icons=true&theme=nord&hide_border=true)
