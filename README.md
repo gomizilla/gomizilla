@@ -10,19 +10,17 @@ I'm a full-stack software engineer with a bias towards front-end and mobile deve
         The first project I made was to help my Japanese students and Japanese teachers of English.
         <br> 
         It was a static page that randomized the order of letters in a word: 
-        <i> pelap ➡ apple </i>
+        <i> pelap -> apple </i>
         <br>
         or randomized the order of words in a sentence: 
-        <i> like cats I ➡ I like cats </i>
+        <i> like cats I -> I like cats </i>
         <br/>
         <br/>
-        It helped increased vocabulary retention/word order amongst students and gave teachers a game they could use at any time. This sparked my desire to continue learning and build up my software engineering skills.
+        It helped increased vocabulary retention/word order amongst students and gave teachers a game they could use at any time. This sparked my desire to continue learning and build up my software engineering skills. It is the original idea to my vocab game repo.
 </details>
 <br/>
 
 ## 🧰 Languages and Tools
-
-#
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -40,8 +38,6 @@ I'm a full-stack software engineer with a bias towards front-end and mobile deve
 
 <br />
 <br />
-
----
 
 ## 📊 Stats
 
